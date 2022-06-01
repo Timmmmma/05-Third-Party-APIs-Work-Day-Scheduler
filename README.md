@@ -28,8 +28,8 @@ THEN the saved events persist
 ```
 
 ## Link
-Applications deployed site : https://timmmmma.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
-Github address : https://github.com/Timmmmma/05-Third-Party-APIs-Work-Day-Scheduler
+Applications deployed site : https://timmmmma.github.io/Work-Day-Scheduler/
+Github address : https://github.com/Timmmmma/Work-Day-Scheduler
 
 ## Screenshot
 ![image](https://github.com/Timmmmma/05-Third-Party-APIs-Work-Day-Scheduler/blob/main/assets/images/Work%20Day%20Scheduler%20-%20Challenge%205_%20Third-Party%20APIs.png)
